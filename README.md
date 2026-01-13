@@ -50,7 +50,7 @@ Main modules include:
 - Focus areas: Digital design, FSM, hardware control, and verification
 
 ## 👤 Author
-- Name: Viet Hoang
+- Name: Le Viet Hoang
 - GitHub: https://github.com/viethoang2k3fov
 
 ## 📎 Notes
