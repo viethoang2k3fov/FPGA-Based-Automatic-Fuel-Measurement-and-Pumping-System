@@ -11,14 +11,13 @@ All modules are implemented using Verilog HDL and verified through simulation.
 - FSM-based control for pumping operation
 - Real-time fuel volume and cost calculation
 - LCD1602 display via I2C interface
-- LED and buzzer status indication
 - Fully hardware-based implementation on FPGA
 
 ## 🛠 Hardware Platform
 - FPGA Board: **DE10-Standard (Cyclone V)**
 - Sensor: Ultrasonic sensor (HC-SR04)
 - Display: LCD1602 (I2C) , Seven Segments 
-
+- Outout : Relay , Pump
 
 ## 🧠 System Architecture
 The system consists of multiple functional modules including sensor data processing,
