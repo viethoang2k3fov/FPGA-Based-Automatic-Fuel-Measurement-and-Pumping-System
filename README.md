@@ -17,7 +17,7 @@ All modules are implemented using Verilog HDL and verified through simulation.
 - FPGA Board: **DE10-Standard (Cyclone V)**
 - Sensor: Ultrasonic sensor (HC-SR04)
 - Display: LCD1602 (I2C) , Seven Segments 
-- Outout : Relay , Pump
+- Output : Relay , Pump
 
 ## 🧠 System Architecture
 The system consists of multiple functional modules including sensor data processing,
